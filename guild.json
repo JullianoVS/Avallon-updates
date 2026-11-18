@@ -14,6 +14,6 @@
   ],
   "apps": [
     {"id": "meter", "name": "AVALLON Stat Meter", "exe": "AVALLON-Stat-Meter.exe", "games": ["7ds"]},
-    {"id": "futuro", "name": "Em breve", "exe": "", "games": ["7ds"]}
+    {"id": "hitmeter", "name": "AVALLON Hit Meter", "exe": "AVALLON-Hit-Meter.exe", "games": ["7ds"]}
   ]
 }
