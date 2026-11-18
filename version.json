@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "min_version": "1.0.13",
-  "download_url": "https://github.com/JullianoVS/Avallon-updates/releases/download/v1.0.12/avallon_update.zip",
-  "sha256": "f2a552b134551b9f6cc531f70b18b63a593bf71582a85cc0f178b9de5f9b3c9b",
-  "notes": "Segundaversão pública do AVALLON Guild."
+  "versão": "1.0.13.3",
+  "min_version": "1.0.12",
+  "download_url": "https://github.com/JullianoVS/Avallon-atualizacoes/releases/latest/download/avallon_update.zip",
+  "sha256": "COLE_AQUI_O_HASH_SHA256_DO_NOVO_ZIP",
+  "notas": "Atualizacao v1.0.13.3: Nick em branco por defeito e novas ferramentas de medicao integradas."
 }
