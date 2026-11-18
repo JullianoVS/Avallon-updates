@@ -1,0 +1,21 @@
+{
+  "announcement": {
+    "title": "Evento de sexta às 21h",
+    "text": "Boss da guild na sexta. Quem vai confirma no Discord até quinta."
+  },
+  "discord": "https://discord.gg/h3hV3U3m2S",
+  "api_url": "https://portland-photos-john-africa.trycloudflare.com",
+  "api_token": "",
+  "channels": [
+    {"name": "Pandowisky (YouTube)", "url": "https://www.youtube.com/@Pandowisky"},
+    {"name": "Pedro Camargos (YouTube)", "url": "https://www.youtube.com/@pedrocamargos7586"},
+    {"name": "Filósofo Games (YouTube)", "url": "https://www.youtube.com/@Fil%C3%B3sofoGames"},
+    {"name": "Astroadc3 (Twitch)", "url": "https://www.twitch.tv/astroadc3"},
+    {"name": "Pandowisky (Twitch)", "url": "https://twitch.tv/pandowisky"},
+    {"name": "I Am Atômico (Twitch)", "url": "https://www.twitch.tv/i_am_atomico"}
+  ],
+  "apps": [
+    {"id": "meter", "name": "AVALLON Stat Meter", "exe": "AVALLON-Stat-Meter.exe", "games": ["7ds"]},
+    {"id": "futuro", "name": "Em breve", "exe": "", "games": ["7ds"]}
+  ]
+}
