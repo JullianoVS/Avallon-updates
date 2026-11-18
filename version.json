@@ -2,6 +2,6 @@
   "versão": "1.0.13.3",
   "min_version": "1.0.12",
   "download_url": "https://github.com/JullianoVS/Avallon-atualizacoes/releases/latest/download/avallon_update.zip",
-  "sha256": "COLE_AQUI_O_HASH_SHA256_DO_NOVO_ZIP",
+  "sha256": "sha256:3ebca4e568f4753da360cf2da3e6b288bb6dd6ef370cd35536bcf3c9cf9b0035",
   "notas": "Atualizacao v1.0.13.3: Nick em branco por defeito e novas ferramentas de medicao integradas."
 }
