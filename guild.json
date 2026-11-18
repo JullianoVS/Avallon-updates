@@ -1,16 +1,18 @@
 {
   "announcement": {
-    "title": " Meláscula da Fé",
-    "text": "na versão 2.4 com modo história e boss fight em sua forma de cobra!"
+    "title": "Atualização 2.4",
+    "text": "Inicio da Atualização as 23h com termino previso para as 05h ou as 06h se tiver imprevistos."
   },
   "discord": "https://discord.gg/h3hV3U3m2S",
-  "api_url": "https://portland-photos-john-africa.trycloudflare.com",
+  "api_url": "http://localhost:8000",
   "api_token": "",
   "channels": [
     {"name": "Pandowisky (YouTube)", "url": "https://www.youtube.com/@Pandowisky"},
     {"name": "Pedro Camargos (YouTube)", "url": "https://www.youtube.com/@pedrocamargos7586"},
     {"name": "Filósofo Games (YouTube)", "url": "https://www.youtube.com/@Fil%C3%B3sofoGames"},
-    {"name": "Astroadc3 (Twitch)", "url": "https://www.twitch.tv/astroadc3"}
+    {"name": "Astroadc3 (Twitch)", "url": "https://www.twitch.tv/astroadc3"},
+    {"name": "Pandowisky (Twitch)", "url": "https://www.twitch.tv/pandowisky"},
+    {"name": "I Am Atômico (Twitch)", "url": "https://www.twitch.tv/i_am_atomico"}
   ],
   "apps": [
     {"id": "meter", "name": "AVALLON Stat Meter", "exe": "AVALLON-Stat-Meter.exe", "games": ["7ds"]},
